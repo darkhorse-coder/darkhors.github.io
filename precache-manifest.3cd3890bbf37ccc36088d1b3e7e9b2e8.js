@@ -1,39 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d69d4c3c0050bf3b2c14ac4c6efbf040",
+    "revision": "0932b4c6696b2d03a02b106e7058f686",
     "url": "/index.html"
   },
   {
-    "revision": "31c54b93968fcee2dce2",
+    "revision": "b50aa0589ae38ed3959e",
+    "url": "/static/css/2.3c1f93d8.chunk.css"
+  },
+  {
+    "revision": "8fd994ccb5a2474eb0bf",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "ffcbd12d387e428e1621",
+    "revision": "af1c028b53fbd828029c",
     "url": "/static/css/4.6daa823b.chunk.css"
   },
   {
-    "revision": "b1992c0eceece95dd100",
-    "url": "/static/css/main.a452d0d7.chunk.css"
+    "revision": "6ea7a1a13f759e175098",
+    "url": "/static/css/main.d1f8a49a.chunk.css"
   },
   {
-    "revision": "2e997489e74cd0f87912",
-    "url": "/static/js/2.508728a0.chunk.js"
+    "revision": "b50aa0589ae38ed3959e",
+    "url": "/static/js/2.5bac453f.chunk.js"
   },
   {
-    "revision": "31c54b93968fcee2dce2",
-    "url": "/static/js/3.641af22e.chunk.js"
+    "revision": "8fd994ccb5a2474eb0bf",
+    "url": "/static/js/3.d31b153b.chunk.js"
   },
   {
-    "revision": "ffcbd12d387e428e1621",
-    "url": "/static/js/4.8ae2fb85.chunk.js"
+    "revision": "af1c028b53fbd828029c",
+    "url": "/static/js/4.0236d6d6.chunk.js"
   },
   {
-    "revision": "b1992c0eceece95dd100",
-    "url": "/static/js/main.b2947d8d.chunk.js"
+    "revision": "6ea7a1a13f759e175098",
+    "url": "/static/js/main.87c721d4.chunk.js"
   },
   {
-    "revision": "7f9b0c45ad5336d94e07",
-    "url": "/static/js/runtime-main.7dd8930b.js"
+    "revision": "434e0668fa702a81cb7c",
+    "url": "/static/js/runtime-main.f83568b5.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -114,6 +118,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7740af32006e9c10949c462bd6fa19d3",
     "url": "/static/media/rental-web.7740af32.jpg"
+  },
+  {
+    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
+    "url": "/static/media/revicons.04eb8fc5.woff"
+  },
+  {
+    "revision": "17629a5dfe0d3c3946cf401e1895f091",
+    "url": "/static/media/revicons.17629a5d.ttf"
+  },
+  {
+    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
+    "url": "/static/media/revicons.2feb69cc.eot"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
