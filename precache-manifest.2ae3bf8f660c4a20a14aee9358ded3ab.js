@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee65cfc1d43c9a33b76d0a4cbd5158fb",
+    "revision": "725801874ee70aea819581707466f2b2",
     "url": "/index.html"
   },
   {
-    "revision": "fdb4741166fb9c8c1f33",
+    "revision": "b50aa0589ae38ed3959e",
     "url": "/static/css/2.3c1f93d8.chunk.css"
   },
   {
-    "revision": "f9659a2cb3b93c2363a7",
+    "revision": "8fd994ccb5a2474eb0bf",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "0fc4f0a1c627ff3b11ea",
+    "revision": "af1c028b53fbd828029c",
     "url": "/static/css/4.6daa823b.chunk.css"
   },
   {
-    "revision": "82715b66f74212bf9c8c",
+    "revision": "b50011488a3877314f75",
     "url": "/static/css/main.7ac182a2.chunk.css"
   },
   {
-    "revision": "fdb4741166fb9c8c1f33",
-    "url": "/static/js/2.0d6a4ac6.chunk.js"
+    "revision": "b50aa0589ae38ed3959e",
+    "url": "/static/js/2.5bac453f.chunk.js"
   },
   {
-    "revision": "f9659a2cb3b93c2363a7",
-    "url": "/static/js/3.33b0505b.chunk.js"
+    "revision": "8fd994ccb5a2474eb0bf",
+    "url": "/static/js/3.d31b153b.chunk.js"
   },
   {
-    "revision": "0fc4f0a1c627ff3b11ea",
-    "url": "/static/js/4.ca623463.chunk.js"
+    "revision": "af1c028b53fbd828029c",
+    "url": "/static/js/4.0236d6d6.chunk.js"
   },
   {
-    "revision": "82715b66f74212bf9c8c",
-    "url": "/static/js/main.6366a143.chunk.js"
+    "revision": "b50011488a3877314f75",
+    "url": "/static/js/main.8334627e.chunk.js"
   },
   {
-    "revision": "9b16a9840de21fb2f34a",
-    "url": "/static/js/runtime-main.9e566844.js"
+    "revision": "434e0668fa702a81cb7c",
+    "url": "/static/js/runtime-main.f83568b5.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
-    "revision": "ff26b978bca5efe07b958d60a2064c1a",
-    "url": "/static/media/ordering-mean.ff26b978.jpg"
+    "revision": "b36e03b357364ebb7c9f9a621ef1847e",
+    "url": "/static/media/ordering-mean.b36e03b3.jpg"
   },
   {
     "revision": "43092accf6ec665a65a669815167bac9",
@@ -118,10 +118,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "7740af32006e9c10949c462bd6fa19d3",
-    "url": "/static/media/rental-web.7740af32.jpg"
   },
   {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
