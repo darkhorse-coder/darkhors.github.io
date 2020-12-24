@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "725801874ee70aea819581707466f2b2",
+    "revision": "90c29c7e260b268ea5b1919abd11f19e",
     "url": "/index.html"
   },
   {
-    "revision": "b50aa0589ae38ed3959e",
+    "revision": "fdb4741166fb9c8c1f33",
     "url": "/static/css/2.3c1f93d8.chunk.css"
   },
   {
-    "revision": "8fd994ccb5a2474eb0bf",
+    "revision": "f9659a2cb3b93c2363a7",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "af1c028b53fbd828029c",
+    "revision": "0fc4f0a1c627ff3b11ea",
     "url": "/static/css/4.6daa823b.chunk.css"
   },
   {
-    "revision": "b50011488a3877314f75",
+    "revision": "779c2174927401979dfb",
     "url": "/static/css/main.7ac182a2.chunk.css"
   },
   {
-    "revision": "b50aa0589ae38ed3959e",
-    "url": "/static/js/2.5bac453f.chunk.js"
+    "revision": "fdb4741166fb9c8c1f33",
+    "url": "/static/js/2.0d6a4ac6.chunk.js"
   },
   {
-    "revision": "8fd994ccb5a2474eb0bf",
-    "url": "/static/js/3.d31b153b.chunk.js"
+    "revision": "f9659a2cb3b93c2363a7",
+    "url": "/static/js/3.33b0505b.chunk.js"
   },
   {
-    "revision": "af1c028b53fbd828029c",
-    "url": "/static/js/4.0236d6d6.chunk.js"
+    "revision": "0fc4f0a1c627ff3b11ea",
+    "url": "/static/js/4.ca623463.chunk.js"
   },
   {
-    "revision": "b50011488a3877314f75",
-    "url": "/static/js/main.8334627e.chunk.js"
+    "revision": "779c2174927401979dfb",
+    "url": "/static/js/main.429ab08f.chunk.js"
   },
   {
-    "revision": "434e0668fa702a81cb7c",
-    "url": "/static/js/runtime-main.f83568b5.js"
+    "revision": "9b16a9840de21fb2f34a",
+    "url": "/static/js/runtime-main.9e566844.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b4c65527bd2d6cd807e069f4c09dcd7e",
     "url": "/static/media/ecommerce.b4c65527.jpg"
+  },
+  {
+    "revision": "f11e235288f0d121538f7932da11ccc8",
+    "url": "/static/media/fitness.f11e2352.jpg"
   },
   {
     "revision": "c24ba79111a90758a3a472a906ab2901",
