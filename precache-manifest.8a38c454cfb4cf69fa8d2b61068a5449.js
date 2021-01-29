@@ -1,43 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "277787b12e8c2ea193c0e50338d5bbb1",
+    "revision": "f0ffff7ccbad91f1e36696f5d79fcaff",
     "url": "/index.html"
   },
   {
-    "revision": "b50aa0589ae38ed3959e",
-    "url": "/static/css/2.3c1f93d8.chunk.css"
-  },
-  {
-    "revision": "8fd994ccb5a2474eb0bf",
+    "revision": "7404e48bfc2084f675d7",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "938871b383ffb0ac0d13",
+    "revision": "2b97db5f58873de2686e",
     "url": "/static/css/4.6daa823b.chunk.css"
   },
   {
-    "revision": "829da996043e0e657cbd",
-    "url": "/static/css/main.7ac182a2.chunk.css"
+    "revision": "4139c244c6369c070841",
+    "url": "/static/css/main.2ee8ec51.chunk.css"
   },
   {
-    "revision": "b50aa0589ae38ed3959e",
-    "url": "/static/js/2.5bac453f.chunk.js"
+    "revision": "36decf3ef854345f1b72",
+    "url": "/static/js/2.540c25f2.chunk.js"
   },
   {
-    "revision": "8fd994ccb5a2474eb0bf",
-    "url": "/static/js/3.d31b153b.chunk.js"
+    "revision": "7404e48bfc2084f675d7",
+    "url": "/static/js/3.7a8c8cca.chunk.js"
   },
   {
-    "revision": "938871b383ffb0ac0d13",
-    "url": "/static/js/4.b8b155a1.chunk.js"
+    "revision": "2b97db5f58873de2686e",
+    "url": "/static/js/4.2501a1b6.chunk.js"
   },
   {
-    "revision": "829da996043e0e657cbd",
-    "url": "/static/js/main.10276ac4.chunk.js"
+    "revision": "4139c244c6369c070841",
+    "url": "/static/js/main.d0f7ad7c.chunk.js"
   },
   {
-    "revision": "199c0e3f6c6f2a102519",
-    "url": "/static/js/runtime-main.30b0ce3e.js"
+    "revision": "cecbf1345b5f6288362f",
+    "url": "/static/js/runtime-main.d188c892.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -118,18 +114,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
-    "url": "/static/media/revicons.04eb8fc5.woff"
-  },
-  {
-    "revision": "17629a5dfe0d3c3946cf401e1895f091",
-    "url": "/static/media/revicons.17629a5d.ttf"
-  },
-  {
-    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
-    "url": "/static/media/revicons.2feb69cc.eot"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
